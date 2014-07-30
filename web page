@@ -1,0 +1,86 @@
+<!.........>
+date 30/07/14
+Name webpage development
+<html>
+<head>
+<style>
+body{
+margin:0px;
+}
+#main{
+ height:100%;
+ width:100%;
+ background-color:pink;
+ }
+ #header{
+ height:20%;
+ widhth:100%;
+ background-color:;
+ }
+ #center{
+ height:70%;
+ width:100%;
+ background-color:;
+ }
+ #footer{
+ height:10%;
+ width:100%;
+ background-color:;
+ }
+ #left{
+ float:left;
+ width:20%;
+ height:100%;
+ background-color:white;
+ }
+ #body{
+ float:left;
+ width:60%;
+ height:100%;
+ background-color:;
+ }
+ #right{
+ float:left;
+ width:20%;
+ height:100%;
+ background-color:white;
+ }
+</head>
+</style>
+<body>
+<div id="main">
+<div id ="header" align="center">
+<font size='60px'>Web Page Development</font>
+</div>
+<div id="center">
+<div id="left">
+<ul>
+<ul>
+<li><a href="Computer Science.html">Computer Science</li>
+<li><a href="Mechanical.html">Mechanical</li>
+<li><a href="Bio Technology.html">Bio Technology</li>
+<li><a href="Mining.html">Mining</li>
+<li><a href="Electronics.html">Electronics</li>
+<li><a href="Instrumention.html">Instrumention</li>
+<li><a href="Information Technology.html">Information Technology</li>
+<li><a href="Communication.html">Communication</li>
+</ul>
+</div>
+<div id="body" align="center">To Order Books Click Here</div>
+<div id="right">
+<form>
+<table><tr><td>
+Book Name::<input type="text"/></td><br>
+</tr>
+<tr>
+<td align="center"><input type="button" value="submit"/></td></tr>
+<tr><td>
+$Price::<input type="text"/></td></tr>
+</table>
+</form>
+</div>
+</div>
+<div id="footer" align="center">ISO<sup>@</sup>Organization</div>
+</div>
+</body>
+</html>
