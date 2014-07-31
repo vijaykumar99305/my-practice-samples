@@ -1,0 +1,92 @@
+//date:31/7/2014
+//name library webpage
+
+<head>
+<style>
+body{
+margin:0px;
+	  }
+
+	#main{
+	   height:100%;
+	   width:100%;;
+	  }
+	  #header{
+	   height:20%;
+	   width:100%;
+	  background-color:yellow;
+	  }
+	  #center{
+	   height:60%;
+	   width:100%;
+	  background-color:pink;
+	  }
+	  #footer{
+	   height:20%;
+	   width:100%;
+	   background-color:blue;
+	  
+	  }
+#left{
+		float:left;
+		height:100%;
+		width:20%;
+		background-color:white;
+}
+ #body{
+		float:body;
+		height:100%;
+		width:60%;
+		background-color:cyan;
+		}
+  #right{
+		float:right;
+		height:100%;
+		width:20%;
+		}
+		#left>ul{
+	list-style-type:none;
+}
+ #LEFT>UL>LI{
+ PADDING:4PX 0px;
+ }
+#left>ul>li>a{
+        TEXT-DECORATION:NONE;
+		font-size:18px;
+}
+#left>ul>li>a:hover{
+		color:red;
+}	
+ 
+	  </style>
+	  </head>
+	  <body>
+	  <div id="main">
+	  <div id ="header">
+	  <font size="30px">WELCOME TO LIBRARY BOOKS</font>
+	  </div>
+	  <div id="center">
+	  <div id="left">
+	  <ul>
+	  <li><a href="HOME1.html">HOME</A></li>
+	  <li><a href="BOOKID.HTML">BOOKID</A></li>
+	  <li><a href="BOOKSNAME.HTML">BOOKSNAME</A></li>
+	  <li><a href="EDITION.HTML">EDITION</A></LI>
+	  <li><a href="HELP.HTML">HELP</A></li>
+	 </ul>
+	 <form>
+	<input type="radio" id="NEWUSER REGI" name="radio"value="" />NEWUSER REGI</BR>
+	 <input type="radio" id="LOGIN" name="radio"value="" />LOGIN</BR>
+	 </form>
+	  </div>
+	  <form>
+	  <div id="body">
+	  BOOKID ISDN::<input type="TEXT" id="TEXT" name="text" value=""/></br>
+	  </form>
+	  </div>
+	  </div>
+	  <div id="footer">
+	  </div>
+	  </body>
+	  </html>
+	  
