@@ -1,0 +1,24 @@
+//date:: 31/7/14
+//name:: sample table
+<html>
+<body>
+<table border="1" width= "30%" height="50%" align="center">
+<caption>sample table</caption>
+<tr>
+<td align="center" >cell1</td>
+<td align="center">cell2</td>
+</tr>
+<tr>
+<td align="center">cell3</td>
+<td align="center">cell4</td>
+</tr>
+<tr>
+<td align="center">cell5</td>
+<td align="center">cell6</td>
+<tr>
+<td align="center">cell7</td>
+<td align="center">cell8</td>
+</tr>
+</table>
+</body>
+</html>
