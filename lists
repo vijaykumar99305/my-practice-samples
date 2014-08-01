@@ -1,0 +1,24 @@
+//date::1/8/14
+//name::order list and underlist,defination list
+<html>
+<body>
+<ol start="1" >
+<li>html</li>
+<li>css</li>
+<li>javascript</li>
+<li>php</li>
+<li>ajax</li>
+</ol>
+<ul type="sqare">
+<li>html</li>
+<li>css</li>
+<li>javascript</li>
+<li>php</li>
+<li>ajax</li>
+</ul>
+<dl>
+<dt> what is the html?</dt>
+<dd> it is a hyper text markup language,used develop webpages</dd>
+</dl>
+</body>
+</html>
