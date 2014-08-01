@@ -1,0 +1,27 @@
+//date::1/8/14
+//name:: tablelayout
+<html>
+<head>
+</head>
+<body>
+<table border='1'border color='green' align ="center" background='' height='50%' width="50%">
+<tr bgcolor="green">
+<th colspan='3'>welcome web page layout</th>
+</tr>
+<tr id="center">
+<td id="left"><ol start="1">
+<li>home</li>
+<li>search</li>
+<li>find</li>
+<li>login</li>
+</ol>
+</td>
+<th id="body" valign="top">first layout</th>
+<td id ="right" align="center"><a href="contact us .html"> contact us</a></td>
+</tr>
+<tr bgcolor="orange">
+<th colspan='3'>ISO<sup>&copy</sup>Company</th>
+</tr>
+</table>
+</body>
+</html>
