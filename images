@@ -1,0 +1,12 @@
+//date:2/8/14
+//name:images
+<html>
+<body>
+<font size='7' color="green" face="arial">image </font></br>
+ <img id="image" name="image" src="" height="20%" width="20%" border="6" title="image tag" alt=""/><br>
+ <h1> absoulate path </h1><br>
+ <img id="image" name="abpath" src="D:\php\c.jpg" height="20%" width="20%" border="5" title="hello"><br>
+ <h1>relative path</h1>
+ <img id="image" name="relative" src="D:\php\practice\images\hello.jpg" height="20%" width="20%"/>
+ </body>
+ </html>
