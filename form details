@@ -1,0 +1,46 @@
+//date:2/8/14
+//name:form details not using submit button
+<html>
+<head>
+</head>
+<body>
+<form > 
+<table border='1' align="center" width="60%" height="55%">
+<caption>sample form</caption>
+<tr>
+<td>NAME</td>
+<td><input type="text" name="name"/></td>
+</tr>
+<tr>
+<td>MOTHER NAME</td>
+<td><input type="text" name="mother name"/></td>
+</tr>
+<tr>
+<td>GENDER </td>
+<td><input type="radio" name="gender" value="male" />Male
+<input type="radio" name="gender" value="female"/>Female</td>
+<tr>
+<td>DATE OF BIRTH</td>
+<td><select><option>DD</option></select>
+<select><option>MM</option></select>
+<select><option>year</option></select></td>
+</tr>
+<tr>
+<td>HOBBIES</td>
+<td><input type="Checkbox" name="hobbies" value="sudoko" />sudoko
+<input type="Checkbox" name="hobbies" value="tenies" />tenies
+<input type="Checkbox" name="hobbies" value="hokey" />hokey<br>
+<input type="Checkbox" name="hobbies" value="cricket" />cricket
+<input type="Checkbox" name="hobbies" value="chess" />chess </td><br>
+</tr>
+<tr>
+<td>File Upload</td>
+<td><input type="file" name="file" /></td>
+</tr>
+<tr>
+<td width="20%">Image</td>
+<td><input type="image" src="D:\php\practice\images\c.jpg" height="10%" width="30%"/ border='3'></td>
+</tr>
+</form>
+</body>
+</html>
