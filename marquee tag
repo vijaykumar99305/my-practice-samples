@@ -1,0 +1,10 @@
+//date:3/8/14
+// name:simple marquee
+html>
+<body bgcolor="cyan">
+<form>name::<input type="text" />
+<marquee direction="left" scrollamount='10' loop='4' behaviour="slide" bgcolor="red" title="hiiiiiiii">enter your name</marquee>
+interests::<input type="text"/>
+<marquee direction="left" scrollamount='7' loop='4' behaviour="scroll" bgcolor="red" title="hiiiiiiii" onmouseover="javascript:this.stop();"onmouseover="javascript:this.start();">enter your interests</marquee>
+</body>
+</html>
