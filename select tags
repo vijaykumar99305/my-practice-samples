@@ -1,0 +1,16 @@
+//date::3/8/14
+//name::select tag
+<html>
+<head>
+</head>
+<body>
+  <select size="10"><optgroup label="Hobbies"></optgroup>
+    <option>Chess</option>
+       <option>Cricket</option>
+       <option>Sudoko</option>
+       <option>football</option>
+       <option>Music</option>
+    </optgroup>
+  </select>
+</body>
+</html>
