@@ -1,0 +1,38 @@
+//date::4/8/14
+//name html completed
+<html>
+<head>
+</head>
+<body>
+<form action="insert.html" method="get">
+<fieldset>
+<legend>Registration-Form</legend>
+Name:::::<input type="text" id="name" name="name" value="" size="60" maxlength="10" autocomplete="on"/><br>
+password:::<input type="password" name="password" id="password" size="60" maxlength="10" value=""/><br>
+Hidden:::<input type="hidden" name="hidden" id="hidden" size="60" maxlength="10" value="TEST"/><br>
+Gender::::<input type="radio" id="male" name="gender" value="male123" checked="true"/>Male <input type="radio" id="female" name="gender" value="female123"/>Female<br>
+Hobbies::::<input type="checkbox" id="hobbies" name="hobbies" value="cricket" checked="true"/>Cricket  <input type="checkbox" id="hobbies" name="hobbies" value="football"/>Football <input type="checkbox" id="hobbies" name="hobbies" value="chess"/>Chess<br>
+File Upload:::<input type="file" id="file" name="file" multiple="true" accept="image/*"/><br>
+<input type="image" src="1.jpg" height="60px" width="60px" title="submit form" alt="Submit form"/><br>
+<h1>Html5</h1>
+Email:::<input type="email"/><br>
+date:::<input type="date"/><br>
+time:::<input type="time"/><br>
+url:::<input type="url"/><br>
+color:::<input type="color"/><br>
+<h1>html5 completed</h1>
+Country::::<select id="country" name="country" size="8" multiple="true">
+<optgroup label="Country">
+<option value="india" selected>india</option>
+<option>us</option>
+<option>uk</option>
+</optgroup>
+</select><br>
+Addresss::::<textarea id="address" name="address" cols="60" rows="10" maxlength="10">Please enter your address</textarea><br>
+<input type="submit" id="submit" name="submit" value="Register"/>
+<input type="reset" id="reset" name="reset" value="Cancel"/>
+<input type="button" id="button" name="button" value="Next"/>
+</fieldset>
+</form>
+</body>
+</html>
