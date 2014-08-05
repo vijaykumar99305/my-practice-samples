@@ -1,0 +1,16 @@
+//date:5/8/14
+//css sample
+<html>
+<head>
+<style>
+h1[name='x']{
+		color:green;
+		font-size:50px;
+}
+</style>
+</head>
+<body>
+<h1 class="a" id="a" name="x">Inline styles</h1>
+<h1 class="a" id="a" name="y">Inline styles</h1>
+</body>
+</html>
