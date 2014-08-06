@@ -1,0 +1,13 @@
+//date:6/8/2014
+//name:inline css
+<html>
+<head>
+  </head>
+  <body>
+  <h1 style="color:red;">hello this is the inline css </h1>
+    <h1>html style</h1>
+    <h1>css style</h1>
+    <h1>javascript style</h1>
+    <h1>php style</h1>
+  </body>
+</html>
