@@ -1,0 +1,36 @@
+//date:7/8/2014
+//name::html tag and combination of internal, inline css
+<html>
+  <head>
+  </head>
+  <body>
+    <p> internal css</p>
+    <h1> internal css</h1>
+    <b> internal css</b><br>
+    <u> internal css</u>
+  </body>
+</html><!-----html completed--->
+  <html>
+  <head>
+    <style>
+      h1{
+        color:red;
+        font-size:10%
+          
+      }
+    </style>
+  </head>
+  <body>
+    <h1> internal css</h1>
+    <h1> internal css</h1>
+    <h1> internal css</h1>
+    <h1> internal css</h1>
+</body>
+</html>
+<html>
+<head>
+</head>
+<body>
+<h1 style="color:red">hello</h1>
+</body>
+</html>
