@@ -1,0 +1,19 @@
+date:6/8/14
+name:internal css
+<html>
+  <head>
+    <style>
+      h2{
+        color:green;
+        font-size:10%
+      }
+    </style>
+  </head>
+  <body>
+    <p> internal css</p>
+    <h1> internal css</h1>
+    <b> internal css</b><br>
+    <u> internal css</u>
+</html>
+
+  
