@@ -1,0 +1,15 @@
+//date:7/8/14
+//name:external css
+<html>
+  <head>
+    <link href="external.css"/>
+    <style>
+    h1{
+    font-size:40px
+    }
+    </style>
+  </head>
+  <body> <h1 style="color:red">hello</h1>
+    <h1>css style sheet</h1>
+    <h1>css style sheet</h1>
+      <h1>css style sheet</h1>
