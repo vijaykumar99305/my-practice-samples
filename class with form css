@@ -1,0 +1,17 @@
+//date:8/8/14
+//name:class with form css
+<html>
+  <head>
+    <style>
+      .honey{
+     background-color:green;
+       font-size:50px      }
+    </style>
+  </head>
+  <body class="honey" align="center">simple and practice program
+    <form>
+  Name<input><br>
+  Father<input><br>
+  Mothe Name<input ><br>
+     </body>
+</html>
