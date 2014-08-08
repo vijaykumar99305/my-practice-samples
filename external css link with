@@ -1,0 +1,10 @@
+//date:8/8/14
+//name:external css link
+<html>
+<head>
+<link href="inline.css"  type="text/css" rel="stylesheet"/>
+</head>
+<body><h1>
+welcome to external css program</h1>
+</body>
+</html>
