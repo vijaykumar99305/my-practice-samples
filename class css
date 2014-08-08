@@ -1,0 +1,18 @@
+//date:8/8/14 
+//name:class css
+<html>
+<head>
+<style>
+.hello{
+color:green;
+font-size:50px
+}
+</style>
+</head>
+<body>
+<div class="hello">wellcome</div>
+<h1>to</h1>
+<h1> vijay</h1>
+<h1>webpage</h1>
+</body>
+</html>
