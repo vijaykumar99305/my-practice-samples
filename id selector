@@ -1,0 +1,19 @@
+//date:9/8/14 
+//name:id selector
+<html>
+  <head>
+    <style>
+      #a{
+    color:green;
+        font-size:30px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 id="a" >This is css selector</h1>  
+    <h1 id ="a"> hello this is id selector</h1>
+    <h1 id="b"> this not a selector</h1>
+    <p id="c"> this is not taking any css property</p>
+  </body>
+  
+</html>
