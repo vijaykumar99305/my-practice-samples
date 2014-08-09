@@ -1,0 +1,34 @@
+//date:10/8/2014  
+//name:element with id selector css
+
+<html>           
+<head>
+  <style>
+    u#sonu{
+      color:brown;
+      font-size:50px;
+    }
+  </style>
+  </head>
+  <body>
+    <u id="sonu">element with id selector using css</h1>
+    <form>
+    <table  border=8, align="center",height=40%,width=50%>
+      <caption>simple login form</caption>
+      <tr bgcolor='cyan'>
+        <td >
+          user name::<input type="text"/>
+        </td>
+      </tr><br>
+      <tr bgcolor="gree">
+        <td>password::<input type="text"</td>
+      </tr>
+      <tr>
+        <th><input type="button" value="login"/>
+          <input type="button" value="new reg"/>
+        </th>
+      </tr>
+      </table>
+    </form>
+  </body>
+</html>
