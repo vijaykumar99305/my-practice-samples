@@ -1,0 +1,33 @@
+//date:10/8/14  
+//name:dotclass simple program
+<html>
+<head>
+<style>
+    .a{
+      color:pink;
+      background-color:green;
+  }
+</style>
+</head>
+  <body><marquee>
+  <h1 class="a">Upload Your Details</h1></marquee>
+  <form>
+   <table align="center">
+       <tr>
+       <td>     
+  RESUME<input type="file"/>
+       </td>  
+        </tr>
+             <tr>
+             <td height=100px>
+       IMAGE:::<input type="image"/><br>
+               <input type="submit" id="submit" name="submit" value="Submit"/>
+               <input type="reset" id="reset" name="reset" value="Reset"/>   
+               <input type="button" id="button" name="button" value="Cancel"/>            
+                      </td>
+                      </tr>
+    </table>
+  </form>
+</body>
+</html>
+
